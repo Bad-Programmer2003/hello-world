@@ -1,2 +1,3 @@
 # hello-world
 New to GIT HUB
+Hey Guys all over the world I'm a moderate coder who knows the basics and curious to learn more...
